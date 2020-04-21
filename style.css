@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+@media screen and (max-width: 767px) {
+	.card {
+		margin-top: 20px;
+	}
+}
+
+.footer-bottom { 
+  background: #e9ecef;
+  vertical-align: middle;
+}
